@@ -1,6 +1,6 @@
 # Citi_Bike_Tableau_Challenge
 
-Tableau Public Link Below
+Tableau Public Link
 [Link to Dashboard](https://public.tableau.com/app/profile/john.vanvliet/viz/Module14Challenge-JVV/NYCStory?publish=yes)
 
 ## Overview
